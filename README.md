@@ -35,7 +35,7 @@ Output: 2
 
 Known Bugs
 
-isn't passing yet will continue to work on functionality
+none
 
 Support and contact details
 
