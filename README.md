@@ -6,7 +6,7 @@ By Jon Toler
 
 Description
 
-{An application for a Brand inventory management. The owner can add Brand brands, and store, which carry each brand.}
+{An application for word Frequency. The user can input sentences and paragraphs and get a return of how many times a word is used.}
 
 Setup/Installation Requirements
 
