@@ -13,9 +13,9 @@ require_once "src/wordFrequency.php";
         function test_make_array()
         {
             $test_makeArray = new WordFrequency;
-            $input = "Wow, this is how one learns to code!";
+            $input = "Wow this is how one learns to code!";
             $result = $test_makeArray->sentence($input);
-            $this->assertEquals(["wow", "this", "how", "one", "learns", "to", "code"], $result);
+            $this->assertEquals(["wow", "this", "is", "how", "one", "learns", "to", "code"], $result);
         }
 
         function test_word_frequency()
